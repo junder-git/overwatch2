@@ -21,6 +21,12 @@ LastUsedGPUVendorID = "4318"
 
 [Render.13]
 AADetail = "0"
+CpuForceSyncEnabled = "1"
+LastTDR = "1506781208"
+RenderScale = "-2"
+ShaderQuality = "2"
+TextureDetail = "1"
+UseGPUScale = "0"
 FrameRateCap = "200"
 FullScreenRefresh = "240"
 FullscreenWindow = "0"
