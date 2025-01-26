@@ -1,6 +1,6 @@
 # overwatch2 on linux, steam version
 
-settings_v0.ini
+see the settings_v0.ini
 
 Steam launch options: #game-performance
 
