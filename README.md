@@ -8,4 +8,5 @@ PROTON_NO_ESYNC=1 PROTON_NO_FSYNC=1 DXVK_ASYNC=0 PULSE_LATENCY_MSEC=30 LD_PRELOA
 
 Remember to enable/disable steam ovelay
 
-Amm currently running some tweaked hyprland conf to help with hardware cursors enabled and faster render
+Amm currently running some tweaked hyprland conf to help with hardware cursors enabled and faster render see: 
+https://wiki.hyprland.org/Configuring/Variables/
