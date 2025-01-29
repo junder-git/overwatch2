@@ -1,6 +1,6 @@
 # overwatch2 on arch linux hyprland/wayland(xwayland), steam flatpak version with proton ge
 
-see the settings_v0.ini
+see the Settings_v0.ini located in ::: /home/j/.var/app/com.valvesoftware.Steam/.steam/steam/steamapps/compatdata/2357570/pfx/drive_c/users/steamuser/Documents/Overwatch/Settings
 
 Steam launch options: #game-performance #gamemoderun
 
