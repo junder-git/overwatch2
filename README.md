@@ -1,4 +1,4 @@
-# overwatch2 on linux, steam flatpak version with proton ge
+# overwatch2 on arch linux hyprland/wayland(xwayland), steam flatpak version with proton ge
 
 see the settings_v0.ini
 
