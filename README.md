@@ -12,8 +12,9 @@ OR native steam:::
   
 Steam launch options: #game-performance #gamemoderun
   
-PROTON_NO_ESYNC=1 PROTON_NO_FSYNC=1 DXVK_ASYNC=1 PULSE_LATENCY_MSEC=30 LD_PRELOAD="" gamemoderun %command%
-  
+PROTON_NO_ESYNC=0 PROTON_NO_FSYNC=1 DXVK_ASYNC=1 PULSE_LATENCY_MSEC=30 LD_PRELOAD="" gamemoderun %command%  
+SEE::: https://flightlessmango.com/games/15751/logs/782  
+    
 Remember to enable/disable steam ovelay
   
 Amm currently running some tweaked hyprland conf to help with hardware cursors enabled and faster render see: 
