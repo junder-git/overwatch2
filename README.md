@@ -20,3 +20,6 @@ Remember to enable/disable steam ovelay
   
 Amm currently running some tweaked hyprland conf to help with hardware cursors enabled and faster render see: 
 https://wiki.hyprland.org/Configuring/Variables/
+  
+For latencyflex:::    
+PROTON_ENABLE_NVAPI=1 DXVK_NVAPI_DRIVER_VERSION=49729 DXVK_NVAPI_ALLOW_OTHER_DRIVERS=1 LFX=1   
