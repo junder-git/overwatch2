@@ -14,8 +14,8 @@ Steam launch options: #game-performance #gamemoderun
 
   
 
-PROTON_NO_ESYNC=0 PROTON_NO_FSYNC=1 DXVK_ASYNC=1 PULSE_LATENCY_MSEC=30 gamemoderun %command% dx11  
-###LD_PRELOAD=""  
+PROTON_NO_ESYNC=0 PROTON_NO_FSYNC=1 DXVK_ASYNC=1 PULSE_LATENCY_MSEC=30 gamemoderun %command%  
+###LD_PRELOAD="" dx11   
   
 SEE::: https://flightlessmango.com/games/15751/logs/782  
 (((ow2 hits around plus 550 stable fps in practice range)))  
