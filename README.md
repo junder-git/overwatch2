@@ -11,8 +11,12 @@ OR native steam:::
 /home/j/.local/share/Steam/steamapps/compatdata/2357570/pfx/drive_c/users/steamuser/Documents/Overwatch/Settings
   
 Steam launch options: #game-performance #gamemoderun
+
   
-PROTON_NO_ESYNC=0 PROTON_NO_FSYNC=1 DXVK_ASYNC=1 PULSE_LATENCY_MSEC=30 LD_PRELOAD="" gamemoderun %command%  
+
+PROTON_NO_ESYNC=0 PROTON_NO_FSYNC=1 DXVK_ASYNC=1 PULSE_LATENCY_MSEC=30 gamemoderun %command% dx11  
+###LD_PRELOAD=""  
+  
 SEE::: https://flightlessmango.com/games/15751/logs/782  
 (((ow2 hits around plus 550 stable fps in practice range)))  
     
